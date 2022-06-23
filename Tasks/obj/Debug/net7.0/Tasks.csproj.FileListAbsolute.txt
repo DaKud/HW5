@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\HW5\Tasks\obj\Debug\net7.0\Tasks.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\HW5\Tasks\obj\Debug\net7.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\HW5\Tasks\obj\Debug\net7.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\HW5\Tasks\obj\Debug\net7.0\Tasks.AssemblyInfo.cs
+C:\Users\ПК\Desktop\HW5\Tasks\obj\Debug\net7.0\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\HW5\Tasks\bin\Debug\net7.0\Tasks.exe
+C:\Users\ПК\Desktop\HW5\Tasks\bin\Debug\net7.0\Tasks.deps.json
+C:\Users\ПК\Desktop\HW5\Tasks\bin\Debug\net7.0\Tasks.runtimeconfig.json
+C:\Users\ПК\Desktop\HW5\Tasks\bin\Debug\net7.0\Tasks.dll
+C:\Users\ПК\Desktop\HW5\Tasks\bin\Debug\net7.0\Tasks.pdb
+C:\Users\ПК\Desktop\HW5\Tasks\obj\Debug\net7.0\Tasks.dll
+C:\Users\ПК\Desktop\HW5\Tasks\obj\Debug\net7.0\refint\Tasks.dll
+C:\Users\ПК\Desktop\HW5\Tasks\obj\Debug\net7.0\Tasks.pdb
+C:\Users\ПК\Desktop\HW5\Tasks\obj\Debug\net7.0\Tasks.genruntimeconfig.cache
+C:\Users\ПК\Desktop\HW5\Tasks\obj\Debug\net7.0\ref\Tasks.dll
