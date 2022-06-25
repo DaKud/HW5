@@ -16,7 +16,7 @@ double[] mass = new double[5];
 Print(mass);
 
 double max = 0;
-double min = 0;
+double min = mass[0];
 
 for (int i = 0; i < mass.Length; i++)
 {
@@ -31,6 +31,7 @@ for (int i = 1; i < mass.Length; i++)
     {
         min=mass[i];
     }
+    
 }
 
 Console.WriteLine("Difference between MAX and MIN = "+ Math.Round((max-min),2));
